@@ -1,0 +1,23 @@
+{
+  "name": "openagents-world-procedural-demo",
+  "version": "1.0.0",
+  "description": "Safe, frontend-only procedural Three.js demo for OpenAgents World.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5177",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4173",
+    "check": "node scripts/audit-runtime-boundary.mjs"
+  },
+  "dependencies": {
+    "three": "0.185.0"
+  },
+  "devDependencies": {
+    "vite": "8.1.0"
+  },
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  },
+  "license": "MIT"
+}
