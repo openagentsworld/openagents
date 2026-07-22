@@ -26,8 +26,19 @@ The demo does not fetch runtime assets from external URLs. Its visual assets are
 
 - Website: [openagentsworld.com](https://openagentsworld.com/)
 - Live app: [app.openagentsworld.com](https://app.openagentsworld.com/)
-- Community discussions: [openagentsworld/community](https://github.com/openagentsworld/community/discussions)
 - Contact: [contact@openagentsworld.com](mailto:contact@openagentsworld.com)
+
+## Community & social
+
+Choose the channel that fits how you want to follow or contribute:
+
+- [Discord](https://discord.gg/Bh79Cz3kg)
+- [Reddit](https://www.reddit.com/r/OpenAgentsWorld/)
+- [Telegram](https://t.me/openagentsworld)
+- [X](https://x.com/OpenAgentsWorld)
+- [Facebook](https://www.facebook.com/profile.php?id=61592167222187)
+- [WhatsApp Business](https://wa.me/message/IXKA5I62UTQ4I1)
+- [GitHub Discussions](https://github.com/openagentsworld/community/discussions)
 
 ## Scope and licensing
 
