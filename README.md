@@ -68,7 +68,6 @@ npm run build
 Choose the channel that fits how you want to follow or contribute:
 
 - [Discord](https://discord.gg/Bh79Cz3kg)
-- [Reddit](https://www.reddit.com/r/OpenAgentsWorld/)
 - [Telegram](https://t.me/openagentsworld)
 - [X](https://x.com/OpenAgentsWorld)
 - [Facebook](https://www.facebook.com/profile.php?id=61592167222187)
