@@ -60,19 +60,19 @@ npm run build
 ## Project links
 
 - Website: [openagentsworld.com](https://openagentsworld.com/)
-- Live app: [app.openagentsworld.com](https://app.openagentsworld.com/)
+- Live App: [app.openagentsworld.com](https://app.openagentsworld.com/)
 - Contact: [contact@openagentsworld.com](mailto:contact@openagentsworld.com)
 
 ## Community & social
 
 Choose the channel that fits how you want to follow or contribute:
 
-- [Discord](https://discord.gg/5wRKK2tqP)
-- [Telegram](https://t.me/openagentsworld)
+- [GitHub Discussions](https://github.com/openagentsworld/community/discussions)
 - [X](https://x.com/OpenAgentsWorld)
 - [Facebook](https://www.facebook.com/OpenAgentsWorld)
+- [Telegram](https://t.me/openagentsworld)
+- [Discord](https://discord.gg/5wRKK2tqP)
 - [WhatsApp Business](https://wa.me/message/IXKA5I62UTQ4I1)
-- [GitHub Discussions](https://github.com/openagentsworld/community/discussions)
 
 ## Scope and licensing
 
