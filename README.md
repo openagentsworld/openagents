@@ -72,7 +72,6 @@ Choose the channel that fits how you want to follow or contribute:
 - [Facebook](https://www.facebook.com/OpenAgentsWorld)
 - [Telegram](https://t.me/openagentsworld)
 - [Discord](https://discord.gg/5wRKK2tqP)
-- [WhatsApp Business](https://wa.me/message/IXKA5I62UTQ4I1)
 
 ## Scope and licensing
 
