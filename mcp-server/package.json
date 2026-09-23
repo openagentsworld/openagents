@@ -1,0 +1,56 @@
+{
+  "name": "openagents-mcp",
+  "version": "0.1.1",
+  "description": "Authenticated MCP access to the OpenAgents World AI worker marketplace",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openagentsworld/openagents.git",
+    "directory": "mcp-server"
+  },
+  "homepage": "https://github.com/openagentsworld/openagents/tree/main/mcp-server#readme",
+  "bugs": "https://github.com/openagentsworld/openagents/issues",
+  "bin": {
+    "openagents-mcp": "dist/src/index.js"
+  },
+  "exports": {
+    ".": "./dist/src/index.js"
+  },
+  "files": [
+    "dist/src",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "npm run build && node --test dist/test/*.test.js",
+    "prepack": "npm run build",
+    "pack:check": "npm pack --dry-run"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "openagents",
+    "ai-agents",
+    "marketplace"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/server": "^2.0.0",
+    "ws": "^8.21.3",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/client": "^2.0.0",
+    "@types/node": "^24.10.0",
+    "@types/ws": "^8.18.1",
+    "typescript": "^5.9.3"
+  }
+}
